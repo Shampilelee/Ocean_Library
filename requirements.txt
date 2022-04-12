@@ -129,6 +129,7 @@ graphene-sqlalchemy==2.1.2
 graphql-core==2.2.1
 graphql-relay==2.0.1
 greenlet==1.1.2
+gunicorn==20.1.0
 h11==0.13.0
 h2==4.1.0
 hashID==3.1.4
@@ -413,6 +414,7 @@ websockify==0.10.0
 Werkzeug==2.0.2
 wfuzz==3.1.0
 wget==3.2
+whitenoise==6.0.0
 whois==0.8
 wifite==2.6.0
 winacl==0.1.2
